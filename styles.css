@@ -18,7 +18,7 @@ body {
 }
 
 #profilepic {
-  margin-top: 7.5em;
+  margin-top: 5em;
   margin-bottom: 2.5em;
   border-radius: 50%;
   width: 40%;
@@ -87,5 +87,5 @@ a:active {
 
 .logo {
   width: 5%;
-  margin-bottom: 100px;
+  margin-bottom: 25px;
 }
