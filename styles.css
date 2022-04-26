@@ -23,12 +23,12 @@ body {
   border-radius: 50%;
   width: 40%;
   border: .125em solid rgb(255, 255, 255);
-  box-shadow: 0 0 35px rgba(255, 255, 255, 0.4);
+  box-shadow: 0 0 35px rgba(255, 255, 255, 0.267);
 }
 
 #dev {
   margin-top: -1.25em;
-  text-shadow: 0 0 15px rgba(255, 255, 255, 0.25);
+  text-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
 }
 
 #fav {
@@ -88,4 +88,12 @@ a:active {
 .logo {
   width: 5%;
   margin-bottom: 25px;
+}
+
+#connor {
+  text-shadow: 0 0 15px rgba(34, 192, 255, 0.5);
+}
+
+.shadow {
+  text-shadow: 0 0 10px #bdc4fd7a;
 }
